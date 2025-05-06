@@ -1,3 +1,5 @@
+ ```py
+
 class trentdawg:
 
   "/trentdawg2510/trentdawg/README.md"
@@ -8,4 +10,8 @@ class trentdawg:
     self.discord = 'trentdawg.v1'
     self.telagram = 'https://t.me/trentdawg2510'
     self.occupation = 'Founder of Flash Boosts'
+
+```
+
+ <img src="https://komarev.com/ghpvc/?username=trentdawg2510&style=flat-square&color=cf6757" />
 
