@@ -10,7 +10,6 @@ class trentdawg:
     self.contacts = 'https://guns.lol/trentdawg'
     self.discord = 'trentdawg.v1'
     self.telagram = 'https://t.me/trentdawg2510'
-    self.occupation = 'Founder of Flash Boosts'
 
 ```
 
